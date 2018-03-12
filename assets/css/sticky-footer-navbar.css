@@ -44,3 +44,58 @@ code {
  color: #e6e6e6;
  font-size:1.5em !important;
 }
+
+
+.btn-kw {
+  
+  margin-bottom: 5px;
+  margin-right: 10px;
+  
+}
+
+.navbar {
+  margin: 1%;
+}
+
+#footballers-view {
+  /* margin-top: 2.5%; */
+  margin: 1%;
+  /* margin-left: 1%; */
+}
+
+/* #gif-view {
+  display:inline-block;
+} */
+
+
+.gif {
+  display:inline-block;
+  width:325px;
+  height:300px;
+  margin:1%;
+  overflow:hidden;
+  border: thin solid #353a40;
+  background-color:#353a40;
+  
+}
+
+.gif-size {
+  
+  min-width:100%;
+  min-height:100%;
+  
+}
+.gif-heading {
+  
+  text-align:center;
+  color: #e6e6e6;
+  margin-top: 3%;
+  
+  
+}
+
+.background-img {
+  /* background: url(../images/soccer_field.png); */
+
+}
+
